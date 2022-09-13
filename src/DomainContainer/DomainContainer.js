@@ -2,7 +2,7 @@ import React from "react";
 
 const DomainContainer = () => {
   const redirectToSubDomain = () => {
-    window.location.href = `https://tempName.domain-sub-domain-cookies.vercel.app`;
+    window.location.href = `https://github.com/samirasaad/domain-sub-domain-cookies`;
   };
 
   return (

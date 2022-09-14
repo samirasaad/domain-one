@@ -1,6 +1,6 @@
 {
-  "name": "domainOne",
-  "homepage": "https://samirasaad.github.io/domainOne/",
+  "name": "domain-one",
+  "homepage": "https://samirasaad.github.io/domain-one/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

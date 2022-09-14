@@ -7,7 +7,7 @@ const DomainContainer = () => {
 
   return (
     <div>
-      <p>welcome to domain</p>
+      <p>welcome to domain one project</p>
       <button onClick={redirectToSubDomain}>take me to the sub domain</button>
     </div>
   );
